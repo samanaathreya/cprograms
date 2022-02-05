@@ -11,6 +11,7 @@ void main()
     gets(arr1);
     printf("the entered text is");
     puts(arr);
+    printf("raghu");
     
    
 
